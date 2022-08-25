@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ViTalk</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Work items</string>
+    <string name="second_fragment_label">Video</string>
+    <string name="third_fragment_label">Gallery</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="toast_upload_finished">Audio uploaded, you can share link!</string>
+    <string name="toast_video_exists">\"Video in the list, delete first... YouTube ID \"</string>
+    <string name="dialog_upload_failed_title">Upload of record failed</string>
+    <string name="dialog_upload_failed_text">Restart?</string>
+    <string name="dialog_terminate_no_permissions_title">Closing App</string>
+    <string name="dialog_terminate_no_permissions_text">You should grant permissions as requested to continue!!!</string>
+    <string name="dialog_terminate_no_firebase_title">Closing App</string>
+    <string name="dialog_terminate_no_firebase_text">No firebase connection!!!</string>
+    <string name="chooser_text">Upload video via Youtube:</string>
+    <string name="dialog_youtube_upload_title">Add video via Youtube</string>
+    <string name="dialog_youtube_upload_text">Choose Youtube and upload your video</string>
+    <string name="tab1_title">Source</string>
+    <string name="tab2_title">Record</string>
+    <string name="tab3_title">Preview</string>
+
+</resources>
